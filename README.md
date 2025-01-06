@@ -69,6 +69,7 @@ Reititys ja näkymien renderöinti
 ## AddExercise.jsx
 
 Harjoitusten lisääminen
+![add](https://github.com/user-attachments/assets/8e39721a-1274-45bc-9fbe-62fa9bf75b0a)
 
     Käyttäjä voi lisätä useita harjoituksia yhdellä kertaa.
     Jokaiselle harjoitukselle voi määrittää kategorian, nimen ja sarjat (paino ja toistot).
@@ -95,6 +96,7 @@ Tietojen lähetys
 
 ## ExerciseLog.jsx
 Harjoituspäiväkirjan näyttäminen
+![log](https://github.com/user-attachments/assets/a42575ac-e3cb-4556-b651-7842d572a9e7)
 
     Harjoitukset ryhmitellään päivämäärän mukaan.
     Jokaiselle päivämäärälle näytetään luettelo harjoituksista ja niiden sarjoista.
@@ -147,6 +149,7 @@ Ilmoitukset ja lataustilat
 ## ExerciseData.jsx
 
 Harjoitustietojen näyttäminen ja valinta
+![data](https://github.com/user-attachments/assets/7cb55970-df9c-4c3d-b9d4-a4307a3bd972)
 
     Käyttäjä voi valita harjoituskategorian, harjoituksen nimen ja päivämäärän.
     Näytetään valitun harjoituksen tiedot (1RM, suhteellinen voima, treenipäivämäärät).

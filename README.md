@@ -149,7 +149,7 @@ Ilmoitukset ja lataustilat
 ## ExerciseData.jsx
 
 Harjoitustietojen näyttäminen ja valinta
-![data](https://github.com/user-attachments/assets/7cb55970-df9c-4c3d-b9d4-a4307a3bd972)
+![data](https://github.com/user-attachments/assets/9cfa88d5-3da8-4e4d-916f-513c970047d2)
 
     Käyttäjä voi valita harjoituskategorian, harjoituksen nimen ja päivämäärän.
     Näytetään valitun harjoituksen tiedot (1RM, suhteellinen voima, treenipäivämäärät).

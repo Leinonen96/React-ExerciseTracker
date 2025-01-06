@@ -1,6 +1,6 @@
 # Teknologiat
 React: Frontend-kehitys
-Vite: Nopeutettu kehitysympäristö
+Vite:  kehitysympäristö
 Express.js: Backendin reititys
 SQLite: Tietokanta, joka tallentaa käyttäjätiedot, harjoitukset ja sarjat
 Material-UI: Käyttöliittymän komponentit (navigointi, painikkeet, lomakkeet)
